@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+Hi,
+This is Lior.
+And this is the hello-world project.
+
+Shawarma.
